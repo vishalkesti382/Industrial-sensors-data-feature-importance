@@ -28,14 +28,3 @@ Hint: There are many reasonable solutions to our task.
 We are looking for good, insightful ones that are the least arbitrary. Please
 beware of the quality of the code as well.
 
-
-Technical requirements
-----------------------
-!pip install numpy
-!pip install pandas
-!pip install sklearn
-!pip install seaborn
-!pip install rfpimp
-!pip install eli5
-!pip install xgboost
-!pip install matplotlib
